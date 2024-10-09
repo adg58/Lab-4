@@ -16,3 +16,15 @@ p{
 .question5{
     text-align: center;
 }
+.dashunderlines {
+    text-decoration: underline;
+}
+.bold-text {
+    font-weight: bold;
+}
+#myid {
+    font-weight:300  ;
+}
+body {
+    font-family:'Times New Roman',serif ;
+}
