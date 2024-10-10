@@ -16,9 +16,25 @@ p{
 .question5{
     text-align: center;
 }
-.dashunderlines {
-    text-decoration: underline;
+h1 {
+    text-decoration: dashed underline;
 }
+h2 {
+    text-decoration: dashed underline;
+}
+h3 {
+    text-decoration: dashed underline;
+}
+h4 {
+    text-decoration: dashed underline;
+}
+h5 {
+    text-decoration: dashed underline;
+}
+h6 {
+    text-decoration: dashed underline;
+}
+
 .bold-text {
     font-weight: bold;
 }
@@ -27,4 +43,16 @@ p{
 }
 body {
     font-family:'Times New Roman',serif ;
+}
+.custom-font{
+    font-family:'Times New Roman', Times, serif ;
+}
+anchor{
+    text-decoration: line none;
+}
+.uppercase{
+    text-transform:uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
 }
